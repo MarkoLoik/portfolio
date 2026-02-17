@@ -1,7 +1,8 @@
 <h1 align="center">Hello I'm Marko</h1>
 <p align="center">Я навчаюсь на Front Ebd Developer в ШКМ</p>
 <h2 align="center">Про себе</h2>
-<img src="img/"
+<img width="420" height="420" alt="202146976" src="https://github.com/user-attachments/assets/52da7035-7a86-4bb1-a777-3864ba38e03d" />
+
 <p align="center">Лоїк Марко, 15 років, зі Львова</p>
 <h3>Soft Skills</h3>
 <p>Командна робота
